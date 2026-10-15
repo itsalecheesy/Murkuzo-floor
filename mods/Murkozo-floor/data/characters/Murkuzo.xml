@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="15" y="-30" scale="0.8" camy="150" icon="val-icon" color="#8E3828">
+	<anim name="idle" anim="Idle" x="104.29" y="-144.29"/>
+	<anim name="singDOWN" anim="Down" x="167.57" y="-138.58"/>
+	<anim name="singRIGHT" anim="Right" x="134.29" y="-130"/>
+	<anim name="singLEFT" anim="Left" x="160" y="-157.15"/>
+	<anim name="singUP" anim="Up" x="101.43" y="-102.86"/>
+</character>

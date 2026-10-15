@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="-1300" y="-1000" sprite="shtewpid" scale="0.3" icon="stoopid">
+	<anim name="idle" anim="idle"/>
+	<anim name="singDOWN" anim="down"/>
+	<anim name="singRIGHT" anim="right"/>
+	<anim name="singLEFT" anim="left"/>
+	<anim name="singUP" anim="up"/>
+	<anim name="meow" anim="meow"/>
+	<anim name="horf" anim="horf"/>
+	<anim name="shock" anim="shock"/>
+	<anim name="angry" anim="angry" loop="true"/>
+</character>

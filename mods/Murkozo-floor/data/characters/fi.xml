@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character camy="75" icon="icon-Flicon" color="#C2CFDB">
+	<anim name="idle" anim="idle" x="-24" y="-65"/>
+	<anim name="singDOWN" anim="down" x="39" y="-164"/>
+	<anim name="singRIGHT" anim="right" x="-62" y="-125"/>
+	<anim name="singLEFT" anim="left" x="186" y="-76"/>
+	<anim name="singUP" anim="up" x="34" y="-53"/>
+	<anim name="Altup" anim="Altup" x="29" y="-63"/>
+	<anim name="altdown" anim="altdown" x="-43" y="-93"/>
+	<anim name="altleft" anim="altleft" x="48" y="-82"/>
+	<anim name="altright" anim="altright" x="14" y="-96"/>
+</character>

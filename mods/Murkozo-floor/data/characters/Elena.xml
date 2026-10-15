@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-280" y="-50" scale="0.8" camx="-20" camy="-65" icon="Elena-icon" color="#AD9196">
+	<anim name="idle" anim="idle dance"/>
+	<anim name="singDOWN" anim="down"/>
+	<anim name="singRIGHT" anim="right"/>
+	<anim name="singLEFT" anim="left"/>
+	<anim name="singUP" anim="up"/>
+</character>

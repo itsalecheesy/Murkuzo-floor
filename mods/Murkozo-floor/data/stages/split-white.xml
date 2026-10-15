@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.7" folder="stages/split-white/" name="split-white">
+	<sprite x="-589.428344406413" sprite="whitebg" y="86.4922027118106" type="none" scalex="2.7724120819309" scaley="3.00251930703569" name="whitebg"/>
+	<girlfriend x="348.745361355964" y="8.27023322041458"/>
+	<dad x="-579.123962033476" y="-2.50927728807187"/>
+	<boyfriend x="181.916623192099" y="-10.2602322482041"/>
+	<sprite x="-1050.72009213428" sprite="screensplit" y="-679.123962032582" scalex="0.737219870233215" scaley="0.762246549258623" name="screensplit"/>
+</stage>

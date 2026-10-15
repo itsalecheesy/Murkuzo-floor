@@ -1,0 +1,15 @@
+{
+	"customValues": {},
+	"color": "#FFAEAE",
+	"opponentModeAllowed": true,
+	"icon": "dad",
+	"difficulties": [
+		"Hard"
+	],
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "MegaFegget",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 160
+}

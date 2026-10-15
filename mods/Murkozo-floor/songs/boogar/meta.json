@@ -1,0 +1,15 @@
+{
+	"customValues": {},
+	"color": "#DCFFF7",
+	"opponentModeAllowed": true,
+	"icon": "icon-Flicon",
+	"difficulties": [
+		"Hard"
+	],
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "boogar",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 190
+}

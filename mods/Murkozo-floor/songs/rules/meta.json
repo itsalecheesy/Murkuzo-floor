@@ -1,0 +1,15 @@
+{
+	"customValues": {},
+	"color": "#FFB8B8",
+	"opponentModeAllowed": true,
+	"icon": "dad",
+	"difficulties": [
+		"Hard"
+	],
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "rules",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 109
+}

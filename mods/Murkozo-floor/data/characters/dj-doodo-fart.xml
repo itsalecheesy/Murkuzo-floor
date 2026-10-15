@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="dj-doodoo-fart" scale="0.5" camx="-1200" camy="-500">
+	<anim name="idle" anim="idle dance" x="1973.33" y="1227.67" loop="true"/>
+</character>

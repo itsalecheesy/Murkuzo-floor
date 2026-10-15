@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character x="1200" y="-1000" scale="0.3" flipX="true" camx="-1400" camy="1000" isPlayer="true" icon="burf">
+	<anim name="idle" anim="idle"/>
+	<anim name="singDOWN" anim="down"/>
+	<anim name="singRIGHT" anim="right"/>
+	<anim name="singLEFT" anim="left"/>
+	<anim name="singUP" anim="up"/>
+	<anim name="shock" anim="shock"/>
+</character>

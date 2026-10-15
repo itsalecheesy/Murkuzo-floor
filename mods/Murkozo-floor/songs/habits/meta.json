@@ -1,0 +1,14 @@
+{
+	"opponentModeAllowed": true,
+	"icon": "dad",
+	"difficulties": [
+		"Hard"
+	],
+	"color": "#FFB6B6",
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "habits",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 150
+}

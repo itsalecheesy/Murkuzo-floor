@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character x="-300" y="25" scale="0.6" camx="75" icon="Cinnamoroll">
+	<anim name="idle" anim="idle dance" loop="true"/>
+	<anim name="singDOWN" anim="NOTE DOWN"/>
+	<anim name="singRIGHT" anim="NOTE RIGHT"/>
+	<anim name="singLEFT" anim="NOTE LEFT"/>
+	<anim name="singUP" anim="NOTE UP"/>
+	<anim name="HEY!!" anim="HEY!!"/>
+</character>
