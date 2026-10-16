@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="-10" y="50" sprite="boyfrind" scale="0.9" flipX="true" camy="250" isPlayer="true" icon="bf" color="#30B0D1">
+	<anim name="idle" anim="IDLE" x="12" y="-265"/>
+	<anim name="singDOWN" anim="DOWN" x="9" y="-293.78"/>
+	<anim name="singRIGHT" anim="RIGHT" x="-6" y="-272"/>
+	<anim name="singLEFT" anim="LEFT" x="22" y="-270"/>
+	<anim name="singUP" anim="UP" x="-7" y="-217"/>
+	<anim name="singUPmiss" anim="upmiss" x="-9" y="-220"/>
+	<anim name="singRIGHTmiss" anim="misright" x="-7" y="-272"/>
+	<anim name="singDOWNmiss" anim="downmiss" x="13.44" y="-290.34"/>
+	<anim name="leftLEFTmiss" anim="leftmiss" x="18" y="-266"/>
+</character>

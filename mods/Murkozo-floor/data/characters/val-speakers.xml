@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="Val-speakers" scale="0.6" camx="-675" camy="-500">
+	<anim name="idle" anim="Dancing Beat" x="900" y="1260.01"/>
+	<anim name="singDOWN" anim="Dancing Beat"/>
+	<anim name="singRIGHT" anim="Dancing Beat"/>
+	<anim name="singLEFT" anim="Dancing Beat"/>
+	<anim name="singUP" anim="Dancing Beat"/>
+</character>
